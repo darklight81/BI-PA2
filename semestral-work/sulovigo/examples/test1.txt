@@ -1,0 +1,25 @@
+0
+What is the tallest mountain?
+0
+Mount Everest
+0
+Which fruit is red?
+1
+3
+Strawberry
+Apple
+Raspberry
+0
+What color is an apple?
+2
+red
+1
+Which of these is the tallest?
+Burj Khalifa
+Shanghai Tower
+Lotte World Tower
+2
+Order these movies by its release date.
+The Godfather
+The Shawshank Redemption
+The Matrix
